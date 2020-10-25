@@ -10,12 +10,12 @@
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #ddd;
-  --btn-default-bg: transparent;
-  --btn-default-color: var(--link-color);
-  --btn-default-border-color: var(--link-color);
-  --btn-default-hover-bg: transparent;
-  --btn-default-hover-color: var(--link-hover-color);
-  --btn-default-hover-border-color: var(--link-hover-color);
+  --btn-default-bg: #fff;
+  --btn-default-color: #49b1f5;
+  --btn-default-border-color: #49b1f5;
+  --btn-default-hover-bg: #49b1f5;
+  --btn-default-hover-color: #fff;
+  --btn-default-hover-border-color: #49b1f5;
 }
 html {
   line-height: 1.15; /* 1 */
@@ -166,8 +166,8 @@ template {
   display: none;
 }
 ::selection {
-  background: #262a30;
-  color: #eee;
+  background: #49b1f5;
+  color: #fff;
 }
 html,
 body {
@@ -301,8 +301,8 @@ td {
 }
 th,
 td {
-  border: 1px solid #ddd;
-  border-bottom: 3px solid #ddd;
+  border: 1px solid $gray-lighter;
+  border-bottom: 3px solid $gray-lighter;
 }
 th {
   font-weight: 700;
@@ -391,7 +391,7 @@ code {
   font-family: consolas, Menlo, monospace, "PingFang SC", "Microsoft YaHei";
 }
 code {
-  background: #eee;
+  background: #edf1ff;
   border-radius: 3px;
   color: #555;
   padding: 2px 4px;
@@ -674,17 +674,17 @@ pre .javascript .function {
 .post-body .tabs ul.nav-tabs li.tab.active,
 .tabs-comment ul.nav-tabs li.tab.active {
   border-bottom: 1px solid transparent;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  border-left: 1px solid $gray-lighter;
+  border-right: 1px solid $gray-lighter;
   border-top: 3px solid #fc6423;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs li.tab.active,
   .tabs-comment ul.nav-tabs li.tab.active {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid $gray-lighter;
     border-left: 3px solid #fc6423;
-    border-right: 1px solid #ddd;
-    border-top: 1px solid #ddd;
+    border-right: 1px solid $gray-lighter;
+    border-top: 1px solid $gray-lighter;
   }
 }
 .post-body .tabs ul.nav-tabs li.tab.active a,
@@ -694,7 +694,7 @@ pre .javascript .function {
 }
 .post-body .tabs .tab-content .tab-pane,
 .tabs-comment .tab-content .tab-pane {
-  border: 1px solid #ddd;
+  border: 1px solid $gray-lighter;
   border-top: 0;
   padding: 20px 20px 0 20px;
   border-radius: 0;
@@ -1238,7 +1238,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9afbdb;
+  background: #aa25cf;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
