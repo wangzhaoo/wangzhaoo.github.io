@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/tags/index.html</loc>
+    <loc>https://wangzhaoo.gitee.io/tags/index.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/categories/index.html</loc>
+    <loc>https://wangzhaoo.gitee.io/categories/index.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/about/index.html</loc>
+    <loc>https://wangzhaoo.gitee.io/about/index.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/2020/10/24/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://wangzhaoo.gitee.io/2020/10/24/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
     
     <lastmod>2020-10-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/2020/10/24/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://wangzhaoo.gitee.io/2020/10/24/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/</loc>
     
     <lastmod>2020-10-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/2020/10/24/%E5%B8%8C%E5%B0%94%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://wangzhaoo.gitee.io/2020/10/24/%E5%B8%8C%E5%B0%94%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2020-10-24</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog</loc>
+    <loc>https://wangzhaoo.gitee.io/</loc>
     <lastmod>2020-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,14 +53,14 @@
 
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://wangzhaoo.gitee.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://wangzhaoo.gitee.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2020-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -69,7 +69,7 @@
 
   
   <url>
-    <loc>https://chaoswz.gitee.io/my-blog/categories/code-%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://wangzhaoo.gitee.io/categories/code-%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
